@@ -6,7 +6,9 @@ An interactive sales dashboard built using **Python**, **Pandas**, **Matplotlib*
 
 ## 📸 Screenshots
 
-![Top Products](screenshots/top_products.png)
+![Sales](https://github.com/zarlish13/Sales_Analysis_Dashboard/blob/main/salesbycategory.png)
+![Sales](https://github.com/zarlish13/Sales_Analysis_Dashboard/blob/main/salesbycategory.png)
+![Sales](https://github.com/zarlish13/Sales_Analysis_Dashboard/blob/main/salesbycategory.png)
 
 
 ---
