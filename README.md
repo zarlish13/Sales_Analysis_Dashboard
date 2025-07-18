@@ -8,7 +8,7 @@ An interactive sales dashboard built using **Python**, **Pandas**, **Matplotlib*
 
 ![Sales](https://github.com/zarlish13/Sales_Analysis_Dashboard/blob/main/salesbycategory.png)
 ![Salesvsprofit](https://github.com/zarlish13/Sales_Analysis_Dashboard/blob/main/salesvsprofit.png)
-![Sales](https://github.com/zarlish13/Sales_Analysis_Dashboard/blob/main/salesbycategory.png)
+![top10products](https://github.com/zarlish13/Sales_Analysis_Dashboard/blob/main/top10products.png)
 
 
 ---
